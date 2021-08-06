@@ -1,0 +1,20 @@
+{
+    "name": "mademedia/silverstripe-basicauth",
+    "description": "Adds BasicAuth functionality to `Page` under `Settings` tab",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/framework": "^4.8"
+    },
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Mademedia\\SilverstripeBasicauth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lee Bradley",
+            "email": "lee.bradley@made.media"
+        }
+    ]
+}

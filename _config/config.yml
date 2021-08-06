@@ -1,0 +1,7 @@
+---
+Name: silvertripe-basicauth
+---
+
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - Mademedia\SilverstripeBasicauth\DataObjectExtension
